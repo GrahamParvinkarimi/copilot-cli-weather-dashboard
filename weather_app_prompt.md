@@ -1,4 +1,4 @@
-# Weather App Implementation Prompt for Claude Code
+# Weather App Implementation Prompt for Copilot CLI
 
 Create a lean, single-screen weather application using Kotlin Multiplatform with the following specifications:
 
