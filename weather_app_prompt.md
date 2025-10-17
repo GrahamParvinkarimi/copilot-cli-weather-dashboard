@@ -25,7 +25,7 @@ Create a lean, single-screen weather application using Kotlin Multiplatform with
 - **Location**: Fetch user's current location and display city abbreviation instead of "JKT"
 
 ## UI Implementation
-- **Design Reference**: Use the current Figma selection as design reference for the weather display screen
+- **Design Reference**: Use the current Figma selection (*HAVE TO USE THE FIGMA MCP SERVER*) as design reference for the weather display screen
 - **Platform-Specific UI**: Jetpack Compose for Android following Material 3, SwiftUI for iOS following Human Interface Guidelines
 - **Responsive Design**: Ensure proper layout for different screen sizes and orientations on both platforms
 - **Loading States**: Implement platform-appropriate loading indicators
