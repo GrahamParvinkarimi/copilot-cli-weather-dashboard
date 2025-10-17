@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=CopilotCLIWeatherDashboard
+PRODUCT_BUNDLE_IDENTIFIER=com.gp.copilot_cli_weather_dashboard.CopilotCLIWeatherDashboard$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
